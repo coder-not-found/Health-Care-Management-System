@@ -1,2 +1,2 @@
-# Health-Care-Management-System
+# Health Care Management System
 The website provides interactive features such as maps and an integrated form for users to book an appointment which forwards their contact details and stores the patient information in a database for future reference by the doctor. An email is sent to the user as well as the phone number as a text message to confirm the appointment request and to assure them about a call back.
